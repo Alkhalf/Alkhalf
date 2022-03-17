@@ -5,5 +5,5 @@
 -  🔭 I'm interested in Artificial intelligence which i want to study in my master degree.
 -  🌱 I’m currently learning paython.
 -  💬 Ask me about Java, algorithm and data structures. 
--  📫 How to reach me: linkedin.com/in/ahmed-alkhalaf-5ab112212 on Linkedin.
+-  📫 How to reach me: [Ahmed Alkhalaf](https://linkedin.com/in/ahmed-alkhalaf-5ab112212) on Linkedin.
 -  ⚡ Fun fact: Good player and big fan of ping pong 🏓
