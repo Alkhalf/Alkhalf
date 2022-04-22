@@ -6,7 +6,6 @@ A practical person with ambitious vision for the future as Backend developer. Iâ
 -  Iâ€™m currently learning paython.
 -  Ask me about Java, algorithm and data structures. 
 -  How to reach me: [Ahmed Alkhalaf](https://linkedin.com/in/ahmed-alkhalaf-5ab112212) on Linkedin.
--  Fun fact: Good player and big fan of ping pong.
 
 
 ### Languages and Tools:
